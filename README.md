@@ -1,0 +1,2 @@
+# rails
+Stock trading platform
